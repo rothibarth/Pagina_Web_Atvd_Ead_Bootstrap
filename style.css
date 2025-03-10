@@ -1,0 +1,55 @@
+*{
+    background-color: rgb(138, 138, 255);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+html{
+    height: 100vh;
+
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+
+header img {
+    float: left;
+    width: 40%;
+    margin: 1%;
+}
+
+header h1 {
+    color: rgb(63, 63, 63);
+    float: center;
+    font-size: 2.5rem;
+}
+
+header h5 {
+    color: rgb(63, 63, 63);
+    float: center;
+    font-size: 1.0rem;
+}
+
+.nav-link {
+    font-weight: bold;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+
+.nav-link:hover {
+    background-color: rgb(49, 80, 184);
+    color: #ffffff !important;
+}
+
+
+.nav_style a {
+    color: rgb(63, 63, 63);
+}
