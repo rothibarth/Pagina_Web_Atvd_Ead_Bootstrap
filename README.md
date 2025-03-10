@@ -17,14 +17,8 @@ O site foi desenvolvido utilizando HTML, CSS e Bootstrap para garantir um layout
 Passos para Rodar o Projeto
 Clone o repositório:
 
-bash
-
-git clone https://github.com/seu-usuario/vida-no-espaco.git
 Navegue até a pasta do projeto:
 
-bash
-
-cd vida-no-espaco
 Abra o arquivo index.html:
 
 Basta abrir o arquivo index.html no seu navegador favorito (Google Chrome, Firefox, etc.).
